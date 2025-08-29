@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/k-12-stem-lesson-plans/mitres_hso_001.jpg
+file: /ol-ocw-studio-app/courses/res-hso-001-mit-haystack-observatory-k12-stem-lesson-plans/mitres_hso_001.jpg
 file_size: 236856
 file_type: image/jpeg
 image_metadata:
